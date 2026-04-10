@@ -15,6 +15,14 @@ Residential energy consumption dataset with 4 features:
 - Compares against Ridge (α=150) and Lasso (α=150) regularization
 - Plots Train MSE, Test MSE, Ridge MSE, and Lasso MSE across degrees 1–9
 
+## Correlation Heatmap
+
+<img width="1000" height="500" alt="heatmap" src="https://github.com/user-attachments/assets/b7d7a9c4-3389-41ea-996a-c24a35fa1d6e" />
+
+## Degree vs MSE Plot
+
+<img width="1000" height="500" alt="poly vs mse plot" src="https://github.com/user-attachments/assets/a674d7a8-6bac-4ea7-b9cc-87642c940d09" />
+
 ## Results
 
 | Degree | Train MSE | Test MSE | Ridge MSE | Lasso MSE |
